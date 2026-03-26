@@ -1,0 +1,27 @@
+[{
+  "_id": {
+    "$oid": "69c4b30488a8a24b2939a4af"
+  },
+  "Item_no": 2,
+  "Item": "Salt",
+  "Price_per_unit": 699,
+  "Stock": 1000
+},
+{
+  "_id": {
+    "$oid": "69c4b30488a8a24b2939a4b0"
+  },
+  "Item_no": 3,
+  "Item": "Rice",
+  "Price_per_unit": 700,
+  "Stock": 500
+},
+{
+  "_id": {
+    "$oid": "69c4b33788a8a24b2939a4b1"
+  },
+  "Item_no": 1,
+  "Item": "Sugar",
+  "Price_per_unit": 45,
+  "Stock": 522
+}]
